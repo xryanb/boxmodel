@@ -1,23 +1,40 @@
-h1{
-    background-color: black;
+.container{
+    margin:100px;
 }
 
-.my{
-    color: white;
-}
-.cloud{
-    color: cyan;
+
+.search,.plus,.create{
+    margin-bottom: 20px;
 }
 
-h2{
-    background-color: rgb(77, 13, 77);
-    color: white;
-    font-style: italic;
+
+.search{
+    background-color: rgb(247, 242, 242);
+    border: 2px solid teal;
+    height: 40px;
+    width:120px;
+    border-radius: 20px;
+    color: teal;
+    font-weight: 900;
+   
+
+}
+.plus{
+    background-color: aqua;
+    height:40px;
+    width:40px;
+  font-size: x-large;
+    border-radius: 50%;
     text-align: center;
+    color: white;
+    border: none;
+   
 }
 
-h3{
-    background-color: rgb(71, 153, 230);
-    text-align: right;
-    text-decoration: underline;
+.create{
+    background-color: rgb(59, 59, 240);
+    border: 2px solid black;
+    width:150px;
+    height: 30px;
+    box-shadow: 4px 3px;
 }
