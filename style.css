@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+}
+
+.my{
+    color: white;
+}
+.cloud{
+    color: cyan;
+}
+
+h2{
+    background-color: rgb(77, 13, 77);
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    background-color: rgb(71, 153, 230);
+    text-align: right;
+    text-decoration: underline;
+}
